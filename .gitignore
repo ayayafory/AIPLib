@@ -243,3 +243,7 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/AIPLib/movie/mp4_h264_aac.mp4
+/AIPLib/movie/mp4_h264_aac.mp4.jpg
+/AIPLib/movie/mp4_mpeg4_aac.mp4
+/AIPLib/movie/mp4_mpeg4_aac.mp4.jpg
